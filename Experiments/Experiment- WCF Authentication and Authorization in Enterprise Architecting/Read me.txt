@@ -1,0 +1,10 @@
+Date: 22-04-2017
+-------------------------------
+Concept Covered:
+	WCF
+	ASP.NET Authentication Service
+	Custom Authentication
+	HTTP Cookies
+	Authorization PrincipalPermission Attribute
+	Thread CurrentPrincipal
+	Message Interceptors
