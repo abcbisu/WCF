@@ -1,0 +1,7 @@
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceWebApp\bin\ServiceWebApp.dll
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceWebApp\bin\ServiceWebApp.pdb
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceWebApp\obj\Debug\ServiceWebApp.csprojResolveAssemblyReference.cache
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceWebApp\obj\Debug\ServiceWebApp.dll
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceWebApp\obj\Debug\ServiceWebApp.pdb
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceWebApp\bin\ServiceEngineDll.dll
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceWebApp\bin\ServiceEngineDll.pdb
