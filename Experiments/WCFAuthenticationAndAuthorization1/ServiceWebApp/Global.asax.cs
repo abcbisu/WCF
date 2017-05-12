@@ -8,6 +8,8 @@ using System.Web.SessionState;
 using System.ServiceModel.Channels;
 using System.Net;
 using System.ServiceModel;
+using System.Net.Security;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ServiceWebApp
 {
@@ -20,8 +22,15 @@ namespace ServiceWebApp
                 new EventHandler<System.Web.ApplicationServices.AuthenticatingEventArgs>(
                 AuthenticationService_Authenticating);
 
-        }
+            ServicePointManager.ServerCertificateValidationCallback +=
+            new RemoteCertificateValidationCallback(ValidateCertificate);
 
+
+        }
+        public static bool ValidateCertificate(object sender, X509Certificate cert, X509Chain chain, SslPolicyErrors sslPolicyErrors)
+        {
+            return true;
+        }
         private void AuthenticationService_Authenticating(object sender, System.Web.ApplicationServices.AuthenticatingEventArgs e)
         {
             //string roles = string.Empty;

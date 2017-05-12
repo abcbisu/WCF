@@ -3,4 +3,3 @@ C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\Se
 C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceEngineDll\bin\Debug\ServiceEngineDll.pdb
 C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceEngineDll\obj\Debug\ServiceEngineDll.dll
 C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceEngineDll\obj\Debug\ServiceEngineDll.pdb
-C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ServiceEngineDll\obj\Debug\ServiceEngineDll.csprojResolveAssemblyReference.cache

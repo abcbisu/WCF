@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceWebApp", "ServiceWeb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceEngineDll", "ServiceEngineDll\ServiceEngineDll.csproj", "{F1EE5F1B-1028-4511-9AB9-FFB5381C383D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientConsole", "ClientConsole\ClientConsole.csproj", "{DF4ED2B3-AD2E-48BE-A4D9-30278FB36CE8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DEA620F0-17F8-4088-9BC5-504EE2C2D2DB} = {DEA620F0-17F8-4088-9BC5-504EE2C2D2DB}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +24,10 @@ Global
 		{F1EE5F1B-1028-4511-9AB9-FFB5381C383D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1EE5F1B-1028-4511-9AB9-FFB5381C383D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1EE5F1B-1028-4511-9AB9-FFB5381C383D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4ED2B3-AD2E-48BE-A4D9-30278FB36CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4ED2B3-AD2E-48BE-A4D9-30278FB36CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4ED2B3-AD2E-48BE-A4D9-30278FB36CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4ED2B3-AD2E-48BE-A4D9-30278FB36CE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ClientConsole\bin\Debug\ClientConsole.exe.config
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ClientConsole\bin\Debug\ClientConsole.exe
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ClientConsole\bin\Debug\ClientConsole.pdb
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ClientConsole\obj\Debug\ClientConsole.exe
+C:\Users\USER2\Desktop\GIT\WCF\Experiments\WCFAuthenticationAndAuthorization1\ClientConsole\obj\Debug\ClientConsole.pdb

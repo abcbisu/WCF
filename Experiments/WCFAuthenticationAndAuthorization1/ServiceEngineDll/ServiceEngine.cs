@@ -21,23 +21,6 @@ namespace ServiceEngineDll
         public ServiceEngine()
         {
             string name = "biswajit";
-        //    // Extract Cookie (name=value) from messageproperty
-        //    var messageProperty = (HttpRequestMessageProperty)
-        //        OperationContext.Current.IncomingMessageProperties[HttpRequestMessageProperty.Name];
-        //    string cookie = messageProperty.Headers.Get("Set-Cookie");
-        //    string[] nameValue = cookie.Split('=', ',');
-        //    string userName = string.Empty;
-
-        //    // Set User Name from cookie
-        //    if (nameValue.Length >= 2)
-        //        userName = nameValue[1];
-
-        //    // Set Thread Principal to User Name
-        //    CustomIdentity customIdentity = new CustomIdentity();
-        //    GenericPrincipal threadCurrentPrincipal = new GenericPrincipal(customIdentity, new string[] { });
-        //    customIdentity.IsAuthenticated = true;
-        //    customIdentity.Name = userName;
-        //    System.Threading.Thread.CurrentPrincipal = threadCurrentPrincipal;
         }
         [PrincipalPermission(SecurityAction.Demand, Role = "ADMIN")]
         public string YourName(string name)
